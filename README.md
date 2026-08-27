@@ -1,9 +1,5 @@
 <h1 align="left">Hey 👋 I'm Lucas</h1>
 
-<div align="left">
-  <img height="260" src="https://media1.tenor.com/m/XNHli3vOkdEAAAAd/discord-profile-picture.gif" alt="animated banner" />
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
