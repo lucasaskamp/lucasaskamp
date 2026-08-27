@@ -23,7 +23,7 @@
 
 <h2 align="left">About me</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=720&height=110&lines=20-year-old+Student+Software+Developer.;3+years+of+coding+experience.;Currently+doing+an+internship+and+improving+my+CSS+skills." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=295BF7&background=B528FF00&multiline=true&random=false&width=720&height=110&lines=20-year-old+Student+Software+Developer.;3+years+of+coding+experience.;Currently+looking+for+a+new+challenge+to+Inprove+my+skills!" alt="Typing SVG" />
 
 <p align="left">
 I'm Lucas, a student software developer with 3 years of coding experience.<br><br>
